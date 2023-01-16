@@ -10,7 +10,13 @@ Full BackUp делает полное копирование всего, сам�
 Задание 2
 Установите программное обеспечении Bacula, настройте bacula-dir, bacula-sd, bacula-fd. Протестир2уйте работу сервисов. Пришлите конфигурационные файлы для bacula-dir, bacula-sd, bacula-fd.
 
+**![bacula-dir.conf](https://github.com/alexpajitnov111/10.4/blob/main/bacula-dir.conf)**
+**![bacula-fd.conf](https://github.com/alexpajitnov111/10.4/blob/main/bacula-fd.conf)**
+**![bacula-sd.conf](https://github.com/alexpajitnov111/10.4/blob/main/bacula-sd.conf)**
 
 
 Задание 3
 Установите программное обеспечении Rsync. Настройте синхронизацию на двух нодах. Протестируйте работу сервиса. Пришлите рабочую конфигурацию сервера и клиента Rsync.
+
+**![rsyncd.conf](https://github.com/alexpajitnov111/10.4/blob/main/rsyncd.conf)**
+**![backup-node1.sh](https://github.com/alexpajitnov111/10.4/blob/main/backup-node1.sh)**
